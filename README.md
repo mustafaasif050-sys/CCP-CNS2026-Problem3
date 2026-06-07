@@ -2,12 +2,12 @@
 **Course:** Computer Networks (CNS2026)  
 **Instructor:** Muhammad Fahad Irshad  
 **Student:** MUSTAFA ASIF,ARHAN SARFARAZ  
-**Registration:** F2024266794, 
+**Registration:** F2024266794, F2024266108
 
 ## Problem Statement
 Design and implement a secure campus network for the University of Cyberia 
 with three VLANs (Students, Staff, Guests), guest isolation, a captive portal, 
-and rate limiting — built in GNS3.
+and rate limiting — built in cisco packet tracer
 
 ## Repository Structure
 | Folder | Contents |
