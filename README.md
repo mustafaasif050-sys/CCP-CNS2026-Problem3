@@ -21,8 +21,8 @@ and rate limiting — built in cisco packet tracer
 ## Weekly Progress
 | Week | Status | Deliverable |
 |---|---|---|
-| Week 1 | ✅ Done | Topology, IP plan, GitHub setup |
+| Week 1 | ✅ Done| Topology, IP plan, GitHub setup |
 | Week 2 | ✅Done | GNS3 implementation failed / done CISCO IMPLEMENTATION |
-| Week 3 | ⬜ Pending | Security & ACLs |
+| Week 3 | ✅Done | Security & ACLs |
 | Week 4 | ⬜ Pending | Advanced features |
 | Week 5 | ⬜ Pending | Final report & video |
